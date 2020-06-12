@@ -1,4 +1,5 @@
-'''get_score.py
+'''
+get_score.py
 '''
 import os
 import sys

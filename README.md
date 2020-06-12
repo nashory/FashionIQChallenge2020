@@ -97,5 +97,5 @@ python3 optimize_score.py --data_root './dataset' --repos '20200605122245_devel,
 
 ## Authors
 + [Minchul Shin, Search Solutions](https://github.com/nashory)
-+ [Yooujae Cho, NAVER/LINE Vision]()
++ [Yoonjae Cho, NAVER/LINE Vision](https://github.com/yoonjaecho)
 + [Seongwuk Hong, NAVER/LINE Vision]()

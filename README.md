@@ -9,7 +9,13 @@ __2nd Place Team's Solution for Fashion IQ Challenge 2020__
 
 ## (1) Environment Setup
 + Prepare Data:    
-Download Dataset from [here](https://github.com/XiaoxiaoGuo/fashion-iq)    
+Download Dataset from [here](https://github.com/XiaoxiaoGuo/fashion-iq)   
+
+Image download script has been added. (12/07/2020)
+~~~ bash
+run_download_image.sh
+~~~ 
+
 The data structure should look like:
 ~~~bash
 cd ./ours/train
@@ -19,7 +25,7 @@ dataset
    │       ├──...
    │       ├──split.toptee.test.json
    │
-   ├──image_captions
+   ├──captions
    │       ├──cap.dress.train.json
    │       ├──...
    │       ├──cap.toptee.test.json
@@ -31,7 +37,7 @@ dataset
 
 ~~~
 
-+ Intall required packages using virtualenv
++ Install required packages using virtualenv
 ~~~
 python3 -m virtualenv --python=python3 py3
 . py3/bin/activate

@@ -9,7 +9,7 @@ irbench-vision==0.1.12
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 Pillow==6.1.0
 protobuf==3.11.3
 pyzmq==19.0.0

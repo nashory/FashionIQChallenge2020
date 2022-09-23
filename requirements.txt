@@ -11,7 +11,7 @@ Keras-Preprocessing==1.1.0
 Markdown==3.2.1
 numpy==1.18.2
 Pillow==6.1.0
-protobuf==3.11.3
+protobuf==3.18.3
 pyzmq==19.0.0
 six==1.14.0
 tensorboard==1.14.0
